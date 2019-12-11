@@ -12,7 +12,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        testingGitHub()
         // Do any additional setup after loading the view.
+    }
+    func testingGitHub()  {
+        print("this is second feature branch")
     }
 
 
