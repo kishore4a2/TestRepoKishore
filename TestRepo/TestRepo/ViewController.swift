@@ -12,9 +12,12 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        thisIsThirdFeature()
         // Do any additional setup after loading the view.
     }
-
+    func thisIsThirdFeature()  {
+        
+    }
 
 }
 
