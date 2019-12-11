@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         featureFour()
+        thisIsThirdFeature()
         testingGitHub()
         print("testing github")
     }
@@ -22,7 +23,9 @@ class ViewController: UIViewController {
     func testingGitHub()  {
         print("this is second feature branch")
     }
-
+    func thisIsThirdFeature()  {
+        
+    }
 
 }
 
