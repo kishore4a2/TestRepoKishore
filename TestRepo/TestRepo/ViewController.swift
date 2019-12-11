@@ -13,10 +13,14 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         featureFour()
+        testingGitHub()
         print("testing github")
     }
     func featureFour()  {
         print("feature Four")
+    }
+    func testingGitHub()  {
+        print("this is second feature branch")
     }
 
 
